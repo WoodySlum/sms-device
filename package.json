@@ -31,12 +31,12 @@
   },
   "homepage": "https://github.com/irwansyahwii/sms-device#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "moment": "^2.14.1",
-    "raw-modem": "*",
-    "rxjs": "^5.0.0"
+    "chai": "^3.5.0"
   },
   "dependencies": {
-    "serialport": "^4.0.1"
+    "moment": "^2.14.1",
+    "serialport": "^4.0.1",
+    "raw-modem": "*",
+    "rxjs": "^5.0.0"
   }
 }
